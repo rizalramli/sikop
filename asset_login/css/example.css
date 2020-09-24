@@ -1,0 +1,14 @@
+/* 
+    Created on : 17-mrt-2014, 14:58:29
+    Author     : g.v.lankveld
+*/
+
+html {
+    font-family: Helvetica, Arial, sans-serif
+}
+
+
+.centre-container {
+    margin: auto;
+    width: 500px;
+}
